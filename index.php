@@ -1,3 +1,5 @@
+<h1>GLI STUDENTI</h1>
+
 <?php
 
 define("DB_SERVERNAME", "localhost:3306");
